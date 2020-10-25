@@ -79,8 +79,10 @@ body {
 
 #code .keyword{
 	color: #7f0055;
-	padding: 5px;
+	padding: 20px;
 	font-size: 18px;
+	font-family: kartika;
+	letter-spacing: 100px;
 	margin-top: 70px;
 	margin-right: 100px;
 	text-align: right;
