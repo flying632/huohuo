@@ -80,7 +80,7 @@ function startHeartAnimation() {
 				if (b >= c.length) {
 					clearInterval(e)
 				}
-			}, 200)
+			}, 100)
 		});
 		return this
 	}
